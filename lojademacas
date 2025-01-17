@@ -1,0 +1,17 @@
+print("****    Bem-vindos a    ****")
+print("*** Loja de Maçãs da Mariana! ***")
+
+print("Por favor insira seu nome:")
+nome = input()
+print("Obrigada por nos visitar,", nome)
+num_macas = 20
+macas_totais = num_macas
+print("Atualmente temos:",macas_totais, "maçãs.")
+print("Cada maçã custa 5 reais")
+print("Quantas maçãs você deseja comprar?")
+comprar = input()
+comprar = int(comprar)
+total = comprar * 5
+print("Você comprou", comprar, "maçãs. O total é",total, "reais.")
+macas_disp = macas_totais - comprar
+print("Agora temos", macas_disp,"maçãs disponíveis.")
