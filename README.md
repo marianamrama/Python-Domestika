@@ -1,1 +1,1 @@
-Exercício feito para o módulo 3 do curso de programação com Python da plataforma Domestika.
+Exercícios feitos para o curso de programação com Python da plataforma Domestika.
